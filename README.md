@@ -1,4 +1,4 @@
-# tt Autologging - easier logging and tracing for Python classes
+# test Autologging - easier logging and tracing for Python classes
 
 http://ninthtest.info/python-autologging/
 
